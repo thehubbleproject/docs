@@ -2,7 +2,7 @@ module.exports = {
   title: 'Hubble Project',
   tagline: 'The taglineof my site',
   url: 'https://thehubbleproject.github.io',
-  baseUrl: '/thehubbleproject.github.io/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'thehubbleproject', // Usually your GitHub org/user name.
   projectName: 'thehubbleproject.github.io', // Usually your repo name.
