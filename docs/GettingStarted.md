@@ -20,4 +20,4 @@ The goal of hubble is to allow people to create any rollup chain by just writing
 ## Glossary
 
 - `Coordinator`: The entity running the rollup chain node. Responsibilities include validating transactions, aggregating them and then finally submitting a `batch` on-chain.
-- `Batch`: The `committment` of off-chain state on the ethereum contract is called a `batch`, only coordinators selected by the contract are allowed to submit new state updates/committments. Along with a commitment coordinating have to stake a bunch of stashable ethere as well.
+- `Batch`: The `committment` of off-chain state on the ethereum contract is called a `batch`, only coordinators selected by the contract are allowed to submit new state updates/commitments. Along with a commitment, coordinator have to stake a bunch of stashable ethers as well.
